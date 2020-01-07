@@ -5,8 +5,6 @@ date: 2019-12-17 13:32:20 +0300
 description: A basic guid to getting started with Angular Material
 img:  # Add image post (optional)
 ---
-## Plaid ramps kitsch woke pork belly
-The goal of this post is to build a project with Angular Material UI
 
 ## Why Use Angular Material
 * Integrates well with Angular framework
