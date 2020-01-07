@@ -100,6 +100,7 @@ You can also import the icons in your index.html file
 
 ## Step 5: Test it out
 Create a html page and test out our newly installed Angular Material
+```html
 <div>
   <mat-toolbar color="primary">
     <span><mat-icon>mood</mat-icon></span>
@@ -128,3 +129,4 @@ Create a html page and test out our newly installed Angular Material
     </button>
   </span>
 </div>
+```
