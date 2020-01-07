@@ -2,7 +2,7 @@
 layout: post
 title: "How to get started with Angular Material"
 date: 2019-12-17 13:32:20 +0300
-description: A basic guid to getting started with Angular Material
+description: A basic guide to getting started with Angular Material # Add post 
 img:  # Add image post (optional)
 ---
 
